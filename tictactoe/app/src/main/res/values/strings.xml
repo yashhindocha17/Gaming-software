@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">tic tac toe</string>
+    <string name="heading">Welcome to tic-tac-toc</string>
+    <string name="grid">Our main grid</string>
+    <string name="aodo">AODO</string>
+    <string name="bodo">BODO</string>
+    <string name="codo">CODO</string>
+    <string name="podo">PODO</string>
+    <string name="eodo">EODO</string>
+    <string name="fodo">FODO</string>
+    <string name="godo">GODO</string>
+    <string name="hodo">HODO</string>
+    <string name="iodo">IODO</string>
+    <string name="jodo">JODO</string>
+    <string name="o_s_turn_tap_to_play">O_s_turn_tap_to_play</string>
+    <string name="O_s_turn_tap_to_play">O_s_turn_tap_to_play</string>
+
+</resources>
